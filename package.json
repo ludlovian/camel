@@ -1,6 +1,6 @@
 {
   "name": "@ludlovian/camel",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Convert strings to camelCase",
   "main": "src/index.mjs",
   "exports": {
